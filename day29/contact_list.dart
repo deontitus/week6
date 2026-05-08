@@ -25,8 +25,8 @@ class ContactPage extends StatelessWidget {
 
   // Contact List
   final List<Map<String, String>> contacts = const [
-    {
-      "name": "Arjun",
+     {
+      "name": "Deon",
       "phone": "9876543210",
       "category": "Friends"
     },
@@ -36,22 +36,21 @@ class ContactPage extends StatelessWidget {
       "category": "Work"
     },
     {
-      "name": "Neha",
+      "name": "Arjun",
       "phone": "9123456780",
       "category": "Family"
     },
     {
-      "name": "Anu",
+      "name": "Adithya",
       "phone": "9988776655",
       "category": "College"
     },
     {
-      "name": "David",
+      "name": "Albin",
       "phone": "9090909090",
       "category": "Friends"
     },
   ];
-
   // Category Grid
   final List<String> categories = const [
     "Friends",
